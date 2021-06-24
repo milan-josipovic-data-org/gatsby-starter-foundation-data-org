@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: DATA
 tagline: Udruženje Programera
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/2.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
