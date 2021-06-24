@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Data",
+    "title": "DATA - Udruženje Programera",
     "titleTemplate": "%s",
     "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "siteUrl": "https://tender-wozniak-a459d1.netlify.app/",
     "image": "/assets/1.png",
-    "iconimage": "/assets/1.png",
+    "iconimage": "/assets/2.jpg",
     "twitterUsername": "@stackrole"
   },
   "ga": "UA-XXXXXXXXX-X"
